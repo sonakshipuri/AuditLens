@@ -50,7 +50,7 @@ Synthetic journal entries (CSV)
             │
      ┌──────┴──────┐
      ▼             ▼
- Power BI      Audit Findings Report
+ Streamlit     Audit Findings Report
  Dashboard      (reports/audit_findings_report.md)
 ```
 
@@ -127,21 +127,21 @@ auditlens/
 ├── reports/
 │   └── audit_findings_report.md  # generated findings report
 │
-├── auditlens_walkthrough.ipynb   # entire pipeline, narrated, with inline charts
+├── main.ipynb   # entire pipeline, narrated, with inline charts
 ├── requirements.txt
 └── README.md
 ```
 
 ## How to run
 
-**`auditlens_walkthrough.ipynb`** is the single end-to-end entry point,
+**`main.ipynb`** is the single end-to-end entry point,
 step-by-step pipeline cells with inline charts and explanations (Benford's
 Law analysis, risk distribution, recall by anomaly type, and validation
 results). Run it top to bottom to regenerate the project's output files.
 
 ```bash
 pip install -r requirements.txt
-jupyter notebook auditlens_walkthrough.ipynb   # then Run All
+jupyter notebook main.ipynb   # then Run All
 ```
 
 This produces:
