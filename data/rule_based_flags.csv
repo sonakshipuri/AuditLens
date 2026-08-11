@@ -1,0 +1,1144 @@
+transaction_id,n_tests_triggered,tests_triggered,reasons
+JE104741,1,duplicate,Duplicate vendor+amount+date combination
+JE100308,1,duplicate,Duplicate vendor+amount+date combination
+JE103229,1,duplicate,Duplicate vendor+amount+date combination
+JE104206,1,duplicate,Duplicate vendor+amount+date combination
+JE108010,1,duplicate,Duplicate vendor+amount+date combination
+JE105607,1,duplicate,Duplicate vendor+amount+date combination
+JE103612,1,duplicate,Duplicate vendor+amount+date combination
+JE108006,1,duplicate,Duplicate vendor+amount+date combination
+JE103492,1,duplicate,Duplicate vendor+amount+date combination
+JE108013,1,duplicate,Duplicate vendor+amount+date combination
+JE108011,1,duplicate,Duplicate vendor+amount+date combination
+JE108005,1,duplicate,Duplicate vendor+amount+date combination
+JE102746,1,duplicate,Duplicate vendor+amount+date combination
+JE108014,1,duplicate,Duplicate vendor+amount+date combination
+JE108002,1,duplicate,Duplicate vendor+amount+date combination
+JE108015,1,duplicate,Duplicate vendor+amount+date combination
+JE100075,1,duplicate,Duplicate vendor+amount+date combination
+JE108008,1,duplicate,Duplicate vendor+amount+date combination
+JE108007,1,duplicate,Duplicate vendor+amount+date combination
+JE108004,1,duplicate,Duplicate vendor+amount+date combination
+JE104825,1,duplicate,Duplicate vendor+amount+date combination
+JE101308,1,duplicate,Duplicate vendor+amount+date combination
+JE108012,1,duplicate,Duplicate vendor+amount+date combination
+JE108001,1,duplicate,Duplicate vendor+amount+date combination
+JE103153,1,duplicate,Duplicate vendor+amount+date combination
+JE108003,1,duplicate,Duplicate vendor+amount+date combination
+JE108009,1,duplicate,Duplicate vendor+amount+date combination
+JE101830,1,duplicate,Duplicate vendor+amount+date combination
+JE102933,1,duplicate,Duplicate vendor+amount+date combination
+JE101186,1,duplicate,Duplicate vendor+amount+date combination
+JE108021,2,"round_number, statistical_outlier",Round-number amount | Statistical outlier for account 'Travel & Expense' (IQR method)
+JE108032,2,"round_number, statistical_outlier",Round-number amount | Statistical outlier for account 'Utilities' (IQR method)
+JE108033,2,"round_number, statistical_outlier",Round-number amount | Statistical outlier for account 'Marketing Spend' (IQR method)
+JE108022,2,"round_number, statistical_outlier",Round-number amount | Statistical outlier for account 'Payroll' (IQR method)
+JE108026,2,"round_number, statistical_outlier",Round-number amount | Statistical outlier for account 'Accounts Payable' (IQR method)
+JE108025,1,round_number,Round-number amount
+JE108018,2,"round_number, statistical_outlier",Round-number amount | Statistical outlier for account 'Accounts Receivable' (IQR method)
+JE108028,2,"round_number, statistical_outlier",Round-number amount | Statistical outlier for account 'Office Supplies' (IQR method)
+JE108034,2,"round_number, statistical_outlier",Round-number amount | Statistical outlier for account 'Accounts Payable' (IQR method)
+JE108023,1,round_number,Round-number amount
+JE108027,2,"round_number, statistical_outlier",Round-number amount | Statistical outlier for account 'Accounts Receivable' (IQR method)
+JE108031,2,"round_number, statistical_outlier",Round-number amount | Statistical outlier for account 'Marketing Spend' (IQR method)
+JE108016,3,"round_number, off_hours_weekend, statistical_outlier",Round-number amount | Posted on weekend or outside business hours | Statistical outlier for account 'Utilities' (IQR method)
+JE108029,2,"round_number, statistical_outlier",Round-number amount | Statistical outlier for account 'Utilities' (IQR method)
+JE108035,2,"round_number, statistical_outlier",Round-number amount | Statistical outlier for account 'Rent' (IQR method)
+JE108019,2,"round_number, statistical_outlier",Round-number amount | Statistical outlier for account 'Rent' (IQR method)
+JE108017,2,"round_number, statistical_outlier",Round-number amount | Statistical outlier for account 'Consulting Fees' (IQR method)
+JE108030,2,"round_number, statistical_outlier",Round-number amount | Statistical outlier for account 'Consulting Fees' (IQR method)
+JE108020,2,"round_number, statistical_outlier",Round-number amount | Statistical outlier for account 'Travel & Expense' (IQR method)
+JE108024,2,"round_number, statistical_outlier",Round-number amount | Statistical outlier for account 'Marketing Spend' (IQR method)
+JE105798,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106798,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103445,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106427,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107440,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103754,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107054,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108129,3,"off_hours_weekend, statistical_outlier, month_end_late_hour_posting",Posted on weekend or outside business hours | Statistical outlier for account 'Accounts Payable' (IQR method) | Month-end late-hour posting
+JE103759,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106881,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107398,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102420,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104052,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101075,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100897,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108130,3,"off_hours_weekend, statistical_outlier, month_end_late_hour_posting",Posted on weekend or outside business hours | Statistical outlier for account 'Accounts Receivable' (IQR method) | Month-end late-hour posting
+JE105771,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Accounts Payable' (IQR method)
+JE105874,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104087,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101926,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107289,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101916,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101902,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101498,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101941,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104085,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102606,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100434,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100701,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103020,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101798,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103861,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103618,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101194,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102262,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103610,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105225,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Office Supplies' (IQR method)
+JE101647,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103172,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105371,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102344,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100789,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104703,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101084,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Accounts Payable' (IQR method)
+JE106357,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Payroll' (IQR method)
+JE100577,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100413,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105087,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104565,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107553,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101087,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102533,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100452,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105324,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102070,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105718,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106298,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104284,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102785,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102587,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100763,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Accounts Receivable' (IQR method)
+JE100552,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105466,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103185,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100080,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104969,2,"off_hours_weekend, month_end_late_hour_posting",Posted on weekend or outside business hours | Month-end late-hour posting
+JE102574,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104000,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108053,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Accounts Receivable' (IQR method)
+JE101325,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104229,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101705,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103548,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104221,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105305,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108050,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Accounts Receivable' (IQR method)
+JE100403,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108134,3,"off_hours_weekend, statistical_outlier, month_end_late_hour_posting",Posted on weekend or outside business hours | Statistical outlier for account 'Payroll' (IQR method) | Month-end late-hour posting
+JE104362,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106782,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102800,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103996,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106857,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102927,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104944,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106901,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104443,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108128,3,"off_hours_weekend, statistical_outlier, month_end_late_hour_posting",Posted on weekend or outside business hours | Statistical outlier for account 'Accounts Payable' (IQR method) | Month-end late-hour posting
+JE101499,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104236,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107960,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104025,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101408,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107297,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103477,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104916,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106227,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103810,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106043,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Utilities' (IQR method)
+JE105659,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103520,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108043,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100624,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105181,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100771,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101230,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Accounts Payable' (IQR method)
+JE100713,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104709,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108044,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Marketing Spend' (IQR method)
+JE106763,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106068,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106940,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100333,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100148,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105864,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100351,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104097,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108045,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102851,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104553,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107118,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106277,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104470,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105637,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Rent' (IQR method)
+JE103372,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101443,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101731,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102014,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104192,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101931,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105121,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105182,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101353,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101043,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105246,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107981,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105193,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104561,2,"off_hours_weekend, month_end_late_hour_posting",Posted on weekend or outside business hours | Month-end late-hour posting
+JE100464,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103815,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105912,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103693,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106128,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100890,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100158,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107261,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Travel & Expense' (IQR method)
+JE101516,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106285,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102312,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107122,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102984,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100640,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102457,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107810,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100180,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Office Supplies' (IQR method)
+JE107003,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107119,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104587,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104540,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107434,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100979,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101796,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105219,2,"off_hours_weekend, month_end_late_hour_posting",Posted on weekend or outside business hours | Month-end late-hour posting
+JE107050,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101699,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103613,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104637,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108111,2,"off_hours_weekend, month_end_late_hour_posting",Posted on weekend or outside business hours | Month-end late-hour posting
+JE100084,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101524,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101389,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105228,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104694,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107258,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105224,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105461,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104898,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107887,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106011,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103553,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100326,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101181,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108123,3,"off_hours_weekend, statistical_outlier, month_end_late_hour_posting",Posted on weekend or outside business hours | Statistical outlier for account 'Inventory' (IQR method) | Month-end late-hour posting
+JE107713,2,"off_hours_weekend, month_end_late_hour_posting",Posted on weekend or outside business hours | Month-end late-hour posting
+JE106036,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106880,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107014,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101228,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100325,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103378,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107413,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106728,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101097,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102856,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106136,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101606,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103753,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105622,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102742,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101387,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102316,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101284,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105728,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106445,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102519,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102202,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102137,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100337,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103010,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101920,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108117,3,"off_hours_weekend, statistical_outlier, month_end_late_hour_posting",Posted on weekend or outside business hours | Statistical outlier for account 'Accounts Receivable' (IQR method) | Month-end late-hour posting
+JE105151,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Marketing Spend' (IQR method)
+JE104487,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100433,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103084,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104712,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107006,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101720,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105127,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108106,3,"off_hours_weekend, statistical_outlier, month_end_late_hour_posting",Posted on weekend or outside business hours | Statistical outlier for account 'Accounts Receivable' (IQR method) | Month-end late-hour posting
+JE102968,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108126,3,"off_hours_weekend, statistical_outlier, month_end_late_hour_posting",Posted on weekend or outside business hours | Statistical outlier for account 'Travel & Expense' (IQR method) | Month-end late-hour posting
+JE104113,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106220,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105207,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104987,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100946,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107668,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106258,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105802,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101103,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Payroll' (IQR method)
+JE102265,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102493,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102064,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105221,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101765,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101874,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101645,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102764,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107938,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Marketing Spend' (IQR method)
+JE106611,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104225,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108040,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Accounts Payable' (IQR method)
+JE108100,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Marketing Spend' (IQR method)
+JE100038,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105311,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108135,3,"off_hours_weekend, statistical_outlier, month_end_late_hour_posting",Posted on weekend or outside business hours | Statistical outlier for account 'Marketing Spend' (IQR method) | Month-end late-hour posting
+JE104434,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105076,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100449,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100208,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105741,2,"off_hours_weekend, month_end_late_hour_posting",Posted on weekend or outside business hours | Month-end late-hour posting
+JE108122,3,"off_hours_weekend, statistical_outlier, month_end_late_hour_posting",Posted on weekend or outside business hours | Statistical outlier for account 'Marketing Spend' (IQR method) | Month-end late-hour posting
+JE107410,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106236,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103926,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108114,3,"off_hours_weekend, statistical_outlier, month_end_late_hour_posting",Posted on weekend or outside business hours | Statistical outlier for account 'Inventory' (IQR method) | Month-end late-hour posting
+JE102832,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102622,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106659,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104649,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107070,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103357,2,"off_hours_weekend, month_end_late_hour_posting",Posted on weekend or outside business hours | Month-end late-hour posting
+JE100756,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Travel & Expense' (IQR method)
+JE102713,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108109,2,"off_hours_weekend, month_end_late_hour_posting",Posted on weekend or outside business hours | Month-end late-hour posting
+JE106168,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100172,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107702,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103204,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106072,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100673,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101159,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107396,2,"off_hours_weekend, month_end_late_hour_posting",Posted on weekend or outside business hours | Month-end late-hour posting
+JE106294,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100573,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106274,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102672,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100518,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106111,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103124,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107250,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102218,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101388,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103724,2,"off_hours_weekend, month_end_late_hour_posting",Posted on weekend or outside business hours | Month-end late-hour posting
+JE101950,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103649,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103321,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102429,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102355,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107095,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108042,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Travel & Expense' (IQR method)
+JE106042,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101459,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104039,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105952,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101630,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104077,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102503,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106667,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101707,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108092,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Inventory' (IQR method)
+JE101816,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108127,3,"off_hours_weekend, statistical_outlier, month_end_late_hour_posting",Posted on weekend or outside business hours | Statistical outlier for account 'Office Supplies' (IQR method) | Month-end late-hour posting
+JE100639,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104676,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108062,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100213,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103188,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107388,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107688,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101047,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102939,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107364,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103827,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107850,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104493,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103471,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102766,2,"off_hours_weekend, month_end_late_hour_posting",Posted on weekend or outside business hours | Month-end late-hour posting
+JE103814,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100361,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107345,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104432,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107348,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103577,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103241,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102300,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103568,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102541,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100670,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101646,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105855,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103316,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103306,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105488,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100003,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105635,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107646,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102028,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101151,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100829,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103086,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106941,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100663,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102083,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106531,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102627,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107230,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105158,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Marketing Spend' (IQR method)
+JE102444,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106233,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103066,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107601,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104194,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106884,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105764,2,"off_hours_weekend, month_end_late_hour_posting",Posted on weekend or outside business hours | Month-end late-hour posting
+JE105374,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102197,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103049,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102789,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105773,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100151,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100551,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104808,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107376,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Travel & Expense' (IQR method)
+JE102899,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106631,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100099,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104848,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107903,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107551,2,"off_hours_weekend, month_end_late_hour_posting",Posted on weekend or outside business hours | Month-end late-hour posting
+JE107559,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108115,3,"off_hours_weekend, statistical_outlier, month_end_late_hour_posting",Posted on weekend or outside business hours | Statistical outlier for account 'Office Supplies' (IQR method) | Month-end late-hour posting
+JE104403,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100899,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105812,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102320,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103352,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107121,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106985,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103893,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100220,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105359,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106636,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106609,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100855,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105354,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106047,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105902,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106747,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107637,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101023,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106581,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108139,2,"off_hours_weekend, month_end_late_hour_posting",Posted on weekend or outside business hours | Month-end late-hour posting
+JE108041,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101109,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101238,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104627,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101523,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107377,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105133,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106046,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105938,2,"off_hours_weekend, month_end_late_hour_posting",Posted on weekend or outside business hours | Month-end late-hour posting
+JE104014,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101227,2,"off_hours_weekend, month_end_late_hour_posting",Posted on weekend or outside business hours | Month-end late-hour posting
+JE103563,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108037,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104949,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105345,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108103,3,"off_hours_weekend, statistical_outlier, month_end_late_hour_posting",Posted on weekend or outside business hours | Statistical outlier for account 'Consulting Fees' (IQR method) | Month-end late-hour posting
+JE103769,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101860,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105082,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103717,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Accounts Receivable' (IQR method)
+JE107193,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100548,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102797,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101439,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102979,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106560,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107720,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101365,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107467,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107466,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104190,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100528,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102006,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100507,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100111,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102997,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103529,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107063,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106934,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102024,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103898,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107721,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102015,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102440,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105761,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101934,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103863,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102510,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100859,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101359,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103536,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101080,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100908,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107008,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107131,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103280,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104663,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105650,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103072,2,"off_hours_weekend, month_end_late_hour_posting",Posted on weekend or outside business hours | Month-end late-hour posting
+JE104599,2,"off_hours_weekend, month_end_late_hour_posting",Posted on weekend or outside business hours | Month-end late-hour posting
+JE101492,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Inventory' (IQR method)
+JE104662,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100264,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104734,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101254,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105683,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107047,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101414,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Utilities' (IQR method)
+JE106143,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102782,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102918,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101468,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101029,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106874,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100708,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102004,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106483,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102201,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100775,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106663,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100491,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104003,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101090,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104243,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107773,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103673,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104633,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105199,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105058,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107886,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104053,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105724,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100656,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100612,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101987,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108047,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106399,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100990,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103021,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105856,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105373,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107927,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104026,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108138,3,"off_hours_weekend, statistical_outlier, month_end_late_hour_posting",Posted on weekend or outside business hours | Statistical outlier for account 'Accounts Receivable' (IQR method) | Month-end late-hour posting
+JE101234,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Travel & Expense' (IQR method)
+JE106204,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106014,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102950,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108049,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Accounts Payable' (IQR method)
+JE106986,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101899,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107622,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102765,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106534,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104098,2,"off_hours_weekend, month_end_late_hour_posting",Posted on weekend or outside business hours | Month-end late-hour posting
+JE102069,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103134,2,"off_hours_weekend, month_end_late_hour_posting",Posted on weekend or outside business hours | Month-end late-hour posting
+JE101514,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101100,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104935,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106000,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107743,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106444,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106463,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101034,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105999,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108039,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Accounts Payable' (IQR method)
+JE106956,2,"off_hours_weekend, month_end_late_hour_posting",Posted on weekend or outside business hours | Month-end late-hour posting
+JE102642,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103433,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102177,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100878,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105119,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102402,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103467,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100519,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105592,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104405,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102231,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108052,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106498,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102048,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102286,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106410,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104394,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107275,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100287,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104020,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106724,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105005,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103109,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101139,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101616,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Payroll' (IQR method)
+JE100032,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Accounts Payable' (IQR method)
+JE107765,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108121,2,"off_hours_weekend, month_end_late_hour_posting",Posted on weekend or outside business hours | Month-end late-hour posting
+JE104220,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102516,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104041,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107361,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105161,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104171,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105944,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107323,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106085,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106260,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104823,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108051,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Accounts Receivable' (IQR method)
+JE104032,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103905,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101367,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106477,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104889,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105433,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105913,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105270,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103700,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101341,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104828,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104799,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102234,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101883,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104789,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100594,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100395,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105954,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104953,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107873,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Inventory' (IQR method)
+JE103498,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103096,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108048,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Marketing Spend' (IQR method)
+JE103513,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107163,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103403,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105983,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Consulting Fees' (IQR method)
+JE103870,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103874,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104093,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106311,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104890,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102373,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105939,2,"off_hours_weekend, month_end_late_hour_posting",Posted on weekend or outside business hours | Month-end late-hour posting
+JE106453,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101038,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105393,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100026,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100506,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101561,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104683,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107800,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105746,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105171,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102616,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102486,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107994,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100873,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102820,2,"off_hours_weekend, month_end_late_hour_posting",Posted on weekend or outside business hours | Month-end late-hour posting
+JE100924,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104156,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103736,2,"off_hours_weekend, month_end_late_hour_posting",Posted on weekend or outside business hours | Month-end late-hour posting
+JE103604,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104325,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108113,3,"off_hours_weekend, statistical_outlier, month_end_late_hour_posting",Posted on weekend or outside business hours | Statistical outlier for account 'Utilities' (IQR method) | Month-end late-hour posting
+JE103349,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105366,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106528,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107806,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100784,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104274,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100539,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101195,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104678,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104023,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100283,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100259,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105443,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107935,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102955,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108119,3,"off_hours_weekend, statistical_outlier, month_end_late_hour_posting",Posted on weekend or outside business hours | Statistical outlier for account 'Utilities' (IQR method) | Month-end late-hour posting
+JE104401,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103576,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103607,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104506,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100926,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102580,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103326,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107207,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103464,2,"off_hours_weekend, month_end_late_hour_posting",Posted on weekend or outside business hours | Month-end late-hour posting
+JE104853,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107027,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104744,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101629,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101106,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101021,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106702,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106413,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104777,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105589,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100619,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102111,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107421,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100734,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101945,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107332,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104103,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108110,2,"off_hours_weekend, month_end_late_hour_posting",Posted on weekend or outside business hours | Month-end late-hour posting
+JE102565,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101248,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105737,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101856,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103634,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107236,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101317,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106449,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100927,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103247,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104235,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105190,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106778,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105459,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107252,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107746,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102638,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108112,3,"off_hours_weekend, statistical_outlier, month_end_late_hour_posting",Posted on weekend or outside business hours | Statistical outlier for account 'Utilities' (IQR method) | Month-end late-hour posting
+JE103913,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108046,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107857,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107764,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105096,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103501,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101474,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101094,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102801,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102819,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104881,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100278,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105562,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106804,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101467,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106588,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105202,2,"off_hours_weekend, month_end_late_hour_posting",Posted on weekend or outside business hours | Month-end late-hour posting
+JE102466,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105940,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Payroll' (IQR method)
+JE105079,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105963,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107922,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100324,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Payroll' (IQR method)
+JE108036,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Marketing Spend' (IQR method)
+JE107362,2,"off_hours_weekend, month_end_late_hour_posting",Posted on weekend or outside business hours | Month-end late-hour posting
+JE101027,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108102,3,"off_hours_weekend, statistical_outlier, month_end_late_hour_posting",Posted on weekend or outside business hours | Statistical outlier for account 'Accounts Payable' (IQR method) | Month-end late-hour posting
+JE102834,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106994,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104786,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107586,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103377,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102401,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101218,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106245,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105565,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105369,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108038,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Travel & Expense' (IQR method)
+JE107967,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100323,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104111,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103406,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100615,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Office Supplies' (IQR method)
+JE103058,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104342,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101469,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106815,1,off_hours_weekend,Posted on weekend or outside business hours
+JE107537,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101557,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103585,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101867,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106403,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102543,2,"off_hours_weekend, month_end_late_hour_posting",Posted on weekend or outside business hours | Month-end late-hour posting
+JE102214,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101360,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105975,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106821,2,"off_hours_weekend, statistical_outlier",Posted on weekend or outside business hours | Statistical outlier for account 'Marketing Spend' (IQR method)
+JE107832,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106997,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104820,2,"off_hours_weekend, month_end_late_hour_posting",Posted on weekend or outside business hours | Month-end late-hour posting
+JE108104,3,"off_hours_weekend, statistical_outlier, month_end_late_hour_posting",Posted on weekend or outside business hours | Statistical outlier for account 'Marketing Spend' (IQR method) | Month-end late-hour posting
+JE102898,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104502,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104918,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102505,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101892,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105501,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101020,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104344,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102455,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101631,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106024,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100959,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105759,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106635,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102026,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105548,2,"off_hours_weekend, month_end_late_hour_posting",Posted on weekend or outside business hours | Month-end late-hour posting
+JE100177,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103761,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108132,3,"off_hours_weekend, statistical_outlier, month_end_late_hour_posting",Posted on weekend or outside business hours | Statistical outlier for account 'Utilities' (IQR method) | Month-end late-hour posting
+JE105887,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102661,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104253,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100915,1,off_hours_weekend,Posted on weekend or outside business hours
+JE102279,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106543,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103040,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101849,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104566,1,off_hours_weekend,Posted on weekend or outside business hours
+JE103961,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105738,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105453,1,off_hours_weekend,Posted on weekend or outside business hours
+JE106642,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105883,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100845,1,off_hours_weekend,Posted on weekend or outside business hours
+JE108118,3,"off_hours_weekend, statistical_outlier, month_end_late_hour_posting",Posted on weekend or outside business hours | Statistical outlier for account 'Marketing Spend' (IQR method) | Month-end late-hour posting
+JE105340,1,off_hours_weekend,Posted on weekend or outside business hours
+JE100313,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104860,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104280,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105001,1,off_hours_weekend,Posted on weekend or outside business hours
+JE104463,1,off_hours_weekend,Posted on weekend or outside business hours
+JE101373,1,off_hours_weekend,Posted on weekend or outside business hours
+JE105536,1,statistical_outlier,Statistical outlier for account 'Accounts Payable' (IQR method)
+JE105547,1,statistical_outlier,Statistical outlier for account 'Accounts Payable' (IQR method)
+JE105481,1,statistical_outlier,Statistical outlier for account 'Accounts Payable' (IQR method)
+JE108137,2,"statistical_outlier, month_end_late_hour_posting",Statistical outlier for account 'Accounts Payable' (IQR method) | Month-end late-hour posting
+JE100379,1,statistical_outlier,Statistical outlier for account 'Accounts Payable' (IQR method)
+JE101730,1,statistical_outlier,Statistical outlier for account 'Accounts Payable' (IQR method)
+JE105797,1,statistical_outlier,Statistical outlier for account 'Accounts Payable' (IQR method)
+JE105025,1,statistical_outlier,Statistical outlier for account 'Accounts Payable' (IQR method)
+JE106203,1,statistical_outlier,Statistical outlier for account 'Accounts Payable' (IQR method)
+JE107260,1,statistical_outlier,Statistical outlier for account 'Accounts Payable' (IQR method)
+JE103581,1,statistical_outlier,Statistical outlier for account 'Accounts Payable' (IQR method)
+JE104656,1,statistical_outlier,Statistical outlier for account 'Accounts Payable' (IQR method)
+JE102305,1,statistical_outlier,Statistical outlier for account 'Accounts Payable' (IQR method)
+JE100848,1,statistical_outlier,Statistical outlier for account 'Accounts Payable' (IQR method)
+JE100823,1,statistical_outlier,Statistical outlier for account 'Accounts Payable' (IQR method)
+JE105710,1,statistical_outlier,Statistical outlier for account 'Accounts Payable' (IQR method)
+JE106862,1,statistical_outlier,Statistical outlier for account 'Accounts Payable' (IQR method)
+JE105494,1,statistical_outlier,Statistical outlier for account 'Accounts Payable' (IQR method)
+JE107872,1,statistical_outlier,Statistical outlier for account 'Accounts Payable' (IQR method)
+JE102550,1,statistical_outlier,Statistical outlier for account 'Accounts Payable' (IQR method)
+JE103593,1,statistical_outlier,Statistical outlier for account 'Accounts Payable' (IQR method)
+JE103234,1,statistical_outlier,Statistical outlier for account 'Accounts Payable' (IQR method)
+JE106973,1,statistical_outlier,Statistical outlier for account 'Accounts Payable' (IQR method)
+JE104343,1,statistical_outlier,Statistical outlier for account 'Accounts Payable' (IQR method)
+JE108133,2,"statistical_outlier, month_end_late_hour_posting",Statistical outlier for account 'Accounts Payable' (IQR method) | Month-end late-hour posting
+JE108105,2,"statistical_outlier, month_end_late_hour_posting",Statistical outlier for account 'Accounts Payable' (IQR method) | Month-end late-hour posting
+JE103969,1,statistical_outlier,Statistical outlier for account 'Accounts Payable' (IQR method)
+JE101520,1,statistical_outlier,Statistical outlier for account 'Accounts Payable' (IQR method)
+JE100375,1,statistical_outlier,Statistical outlier for account 'Accounts Receivable' (IQR method)
+JE102721,1,statistical_outlier,Statistical outlier for account 'Accounts Receivable' (IQR method)
+JE104524,1,statistical_outlier,Statistical outlier for account 'Accounts Receivable' (IQR method)
+JE106317,1,statistical_outlier,Statistical outlier for account 'Accounts Receivable' (IQR method)
+JE108116,2,"statistical_outlier, month_end_late_hour_posting",Statistical outlier for account 'Accounts Receivable' (IQR method) | Month-end late-hour posting
+JE100886,1,statistical_outlier,Statistical outlier for account 'Accounts Receivable' (IQR method)
+JE101767,1,statistical_outlier,Statistical outlier for account 'Accounts Receivable' (IQR method)
+JE103583,1,statistical_outlier,Statistical outlier for account 'Accounts Receivable' (IQR method)
+JE105036,1,statistical_outlier,Statistical outlier for account 'Accounts Receivable' (IQR method)
+JE108124,2,"statistical_outlier, month_end_late_hour_posting",Statistical outlier for account 'Accounts Receivable' (IQR method) | Month-end late-hour posting
+JE102027,1,statistical_outlier,Statistical outlier for account 'Accounts Receivable' (IQR method)
+JE102176,1,statistical_outlier,Statistical outlier for account 'Accounts Receivable' (IQR method)
+JE103718,1,statistical_outlier,Statistical outlier for account 'Accounts Receivable' (IQR method)
+JE103366,1,statistical_outlier,Statistical outlier for account 'Accounts Receivable' (IQR method)
+JE106253,1,statistical_outlier,Statistical outlier for account 'Accounts Receivable' (IQR method)
+JE102219,1,statistical_outlier,Statistical outlier for account 'Accounts Receivable' (IQR method)
+JE102179,1,statistical_outlier,Statistical outlier for account 'Accounts Receivable' (IQR method)
+JE108140,2,"statistical_outlier, month_end_late_hour_posting",Statistical outlier for account 'Accounts Receivable' (IQR method) | Month-end late-hour posting
+JE107199,1,statistical_outlier,Statistical outlier for account 'Accounts Receivable' (IQR method)
+JE101542,1,statistical_outlier,Statistical outlier for account 'Accounts Receivable' (IQR method)
+JE106107,1,statistical_outlier,Statistical outlier for account 'Accounts Receivable' (IQR method)
+JE100221,1,statistical_outlier,Statistical outlier for account 'Accounts Receivable' (IQR method)
+JE100655,1,statistical_outlier,Statistical outlier for account 'Accounts Receivable' (IQR method)
+JE105804,1,statistical_outlier,Statistical outlier for account 'Accounts Receivable' (IQR method)
+JE100114,1,statistical_outlier,Statistical outlier for account 'Accounts Receivable' (IQR method)
+JE102916,1,statistical_outlier,Statistical outlier for account 'Accounts Receivable' (IQR method)
+JE100479,1,statistical_outlier,Statistical outlier for account 'Accounts Receivable' (IQR method)
+JE106822,1,statistical_outlier,Statistical outlier for account 'Accounts Receivable' (IQR method)
+JE100210,1,statistical_outlier,Statistical outlier for account 'Accounts Receivable' (IQR method)
+JE101625,1,statistical_outlier,Statistical outlier for account 'Accounts Receivable' (IQR method)
+JE104578,1,statistical_outlier,Statistical outlier for account 'Accounts Receivable' (IQR method)
+JE100932,1,statistical_outlier,Statistical outlier for account 'Accounts Receivable' (IQR method)
+JE104856,1,statistical_outlier,Statistical outlier for account 'Accounts Receivable' (IQR method)
+JE103528,1,statistical_outlier,Statistical outlier for account 'Consulting Fees' (IQR method)
+JE108068,1,statistical_outlier,Statistical outlier for account 'Consulting Fees' (IQR method)
+JE106017,1,statistical_outlier,Statistical outlier for account 'Consulting Fees' (IQR method)
+JE102974,1,statistical_outlier,Statistical outlier for account 'Consulting Fees' (IQR method)
+JE103535,1,statistical_outlier,Statistical outlier for account 'Consulting Fees' (IQR method)
+JE104871,1,statistical_outlier,Statistical outlier for account 'Consulting Fees' (IQR method)
+JE108080,1,statistical_outlier,Statistical outlier for account 'Consulting Fees' (IQR method)
+JE105236,1,statistical_outlier,Statistical outlier for account 'Consulting Fees' (IQR method)
+JE108054,1,statistical_outlier,Statistical outlier for account 'Consulting Fees' (IQR method)
+JE102703,1,statistical_outlier,Statistical outlier for account 'Consulting Fees' (IQR method)
+JE108075,1,statistical_outlier,Statistical outlier for account 'Consulting Fees' (IQR method)
+JE108067,1,statistical_outlier,Statistical outlier for account 'Consulting Fees' (IQR method)
+JE100421,1,statistical_outlier,Statistical outlier for account 'Consulting Fees' (IQR method)
+JE101696,1,statistical_outlier,Statistical outlier for account 'Consulting Fees' (IQR method)
+JE106759,1,statistical_outlier,Statistical outlier for account 'Consulting Fees' (IQR method)
+JE103320,1,statistical_outlier,Statistical outlier for account 'Consulting Fees' (IQR method)
+JE102193,1,statistical_outlier,Statistical outlier for account 'Consulting Fees' (IQR method)
+JE108055,1,statistical_outlier,Statistical outlier for account 'Consulting Fees' (IQR method)
+JE103758,1,statistical_outlier,Statistical outlier for account 'Consulting Fees' (IQR method)
+JE108099,1,statistical_outlier,Statistical outlier for account 'Consulting Fees' (IQR method)
+JE103435,1,statistical_outlier,Statistical outlier for account 'Consulting Fees' (IQR method)
+JE102575,1,statistical_outlier,Statistical outlier for account 'Consulting Fees' (IQR method)
+JE108071,1,statistical_outlier,Statistical outlier for account 'Consulting Fees' (IQR method)
+JE103242,1,statistical_outlier,Statistical outlier for account 'Consulting Fees' (IQR method)
+JE107758,1,statistical_outlier,Statistical outlier for account 'Consulting Fees' (IQR method)
+JE108094,1,statistical_outlier,Statistical outlier for account 'Inventory' (IQR method)
+JE107333,1,statistical_outlier,Statistical outlier for account 'Inventory' (IQR method)
+JE107648,1,statistical_outlier,Statistical outlier for account 'Inventory' (IQR method)
+JE103266,1,statistical_outlier,Statistical outlier for account 'Inventory' (IQR method)
+JE101497,1,statistical_outlier,Statistical outlier for account 'Inventory' (IQR method)
+JE107078,1,statistical_outlier,Statistical outlier for account 'Inventory' (IQR method)
+JE102839,1,statistical_outlier,Statistical outlier for account 'Inventory' (IQR method)
+JE102243,1,statistical_outlier,Statistical outlier for account 'Inventory' (IQR method)
+JE106892,1,statistical_outlier,Statistical outlier for account 'Inventory' (IQR method)
+JE105671,1,statistical_outlier,Statistical outlier for account 'Inventory' (IQR method)
+JE104717,1,statistical_outlier,Statistical outlier for account 'Inventory' (IQR method)
+JE106486,1,statistical_outlier,Statistical outlier for account 'Inventory' (IQR method)
+JE103625,1,statistical_outlier,Statistical outlier for account 'Inventory' (IQR method)
+JE103554,1,statistical_outlier,Statistical outlier for account 'Inventory' (IQR method)
+JE102545,1,statistical_outlier,Statistical outlier for account 'Inventory' (IQR method)
+JE100126,1,statistical_outlier,Statistical outlier for account 'Inventory' (IQR method)
+JE107512,1,statistical_outlier,Statistical outlier for account 'Inventory' (IQR method)
+JE107331,1,statistical_outlier,Statistical outlier for account 'Inventory' (IQR method)
+JE102553,1,statistical_outlier,Statistical outlier for account 'Inventory' (IQR method)
+JE103983,1,statistical_outlier,Statistical outlier for account 'Inventory' (IQR method)
+JE107784,1,statistical_outlier,Statistical outlier for account 'Inventory' (IQR method)
+JE103462,1,statistical_outlier,Statistical outlier for account 'Inventory' (IQR method)
+JE106064,1,statistical_outlier,Statistical outlier for account 'Inventory' (IQR method)
+JE108101,2,"statistical_outlier, month_end_late_hour_posting",Statistical outlier for account 'Inventory' (IQR method) | Month-end late-hour posting
+JE106184,1,statistical_outlier,Statistical outlier for account 'Inventory' (IQR method)
+JE103532,1,statistical_outlier,Statistical outlier for account 'Inventory' (IQR method)
+JE107875,1,statistical_outlier,Statistical outlier for account 'Inventory' (IQR method)
+JE104217,1,statistical_outlier,Statistical outlier for account 'Inventory' (IQR method)
+JE100606,1,statistical_outlier,Statistical outlier for account 'Inventory' (IQR method)
+JE100876,1,statistical_outlier,Statistical outlier for account 'Marketing Spend' (IQR method)
+JE103962,1,statistical_outlier,Statistical outlier for account 'Marketing Spend' (IQR method)
+JE106739,1,statistical_outlier,Statistical outlier for account 'Marketing Spend' (IQR method)
+JE107767,1,statistical_outlier,Statistical outlier for account 'Marketing Spend' (IQR method)
+JE103004,1,statistical_outlier,Statistical outlier for account 'Marketing Spend' (IQR method)
+JE107059,1,statistical_outlier,Statistical outlier for account 'Marketing Spend' (IQR method)
+JE102725,1,statistical_outlier,Statistical outlier for account 'Marketing Spend' (IQR method)
+JE101650,1,statistical_outlier,Statistical outlier for account 'Marketing Spend' (IQR method)
+JE107498,1,statistical_outlier,Statistical outlier for account 'Marketing Spend' (IQR method)
+JE108131,2,"statistical_outlier, month_end_late_hour_posting",Statistical outlier for account 'Marketing Spend' (IQR method) | Month-end late-hour posting
+JE107167,1,statistical_outlier,Statistical outlier for account 'Marketing Spend' (IQR method)
+JE108096,1,statistical_outlier,Statistical outlier for account 'Marketing Spend' (IQR method)
+JE104462,1,statistical_outlier,Statistical outlier for account 'Marketing Spend' (IQR method)
+JE105112,1,statistical_outlier,Statistical outlier for account 'Marketing Spend' (IQR method)
+JE102507,1,statistical_outlier,Statistical outlier for account 'Marketing Spend' (IQR method)
+JE101958,1,statistical_outlier,Statistical outlier for account 'Marketing Spend' (IQR method)
+JE105960,1,statistical_outlier,Statistical outlier for account 'Marketing Spend' (IQR method)
+JE108095,1,statistical_outlier,Statistical outlier for account 'Marketing Spend' (IQR method)
+JE108091,1,statistical_outlier,Statistical outlier for account 'Marketing Spend' (IQR method)
+JE103190,1,statistical_outlier,Statistical outlier for account 'Marketing Spend' (IQR method)
+JE107211,1,statistical_outlier,Statistical outlier for account 'Marketing Spend' (IQR method)
+JE105086,1,statistical_outlier,Statistical outlier for account 'Marketing Spend' (IQR method)
+JE101162,1,statistical_outlier,Statistical outlier for account 'Marketing Spend' (IQR method)
+JE100562,1,statistical_outlier,Statistical outlier for account 'Office Supplies' (IQR method)
+JE106863,1,statistical_outlier,Statistical outlier for account 'Office Supplies' (IQR method)
+JE105674,1,statistical_outlier,Statistical outlier for account 'Office Supplies' (IQR method)
+JE107479,1,statistical_outlier,Statistical outlier for account 'Office Supplies' (IQR method)
+JE108120,2,"statistical_outlier, month_end_late_hour_posting",Statistical outlier for account 'Office Supplies' (IQR method) | Month-end late-hour posting
+JE103399,1,statistical_outlier,Statistical outlier for account 'Office Supplies' (IQR method)
+JE102837,1,statistical_outlier,Statistical outlier for account 'Office Supplies' (IQR method)
+JE103921,1,statistical_outlier,Statistical outlier for account 'Office Supplies' (IQR method)
+JE102121,1,statistical_outlier,Statistical outlier for account 'Office Supplies' (IQR method)
+JE103413,1,statistical_outlier,Statistical outlier for account 'Office Supplies' (IQR method)
+JE100285,1,statistical_outlier,Statistical outlier for account 'Office Supplies' (IQR method)
+JE101383,1,statistical_outlier,Statistical outlier for account 'Office Supplies' (IQR method)
+JE104187,1,statistical_outlier,Statistical outlier for account 'Office Supplies' (IQR method)
+JE104378,1,statistical_outlier,Statistical outlier for account 'Office Supplies' (IQR method)
+JE100253,1,statistical_outlier,Statistical outlier for account 'Office Supplies' (IQR method)
+JE107552,1,statistical_outlier,Statistical outlier for account 'Office Supplies' (IQR method)
+JE101598,1,statistical_outlier,Statistical outlier for account 'Office Supplies' (IQR method)
+JE105962,1,statistical_outlier,Statistical outlier for account 'Office Supplies' (IQR method)
+JE101912,1,statistical_outlier,Statistical outlier for account 'Office Supplies' (IQR method)
+JE105788,1,statistical_outlier,Statistical outlier for account 'Office Supplies' (IQR method)
+JE104366,1,statistical_outlier,Statistical outlier for account 'Office Supplies' (IQR method)
+JE100870,1,statistical_outlier,Statistical outlier for account 'Office Supplies' (IQR method)
+JE106224,1,statistical_outlier,Statistical outlier for account 'Office Supplies' (IQR method)
+JE101801,1,statistical_outlier,Statistical outlier for account 'Office Supplies' (IQR method)
+JE105809,1,statistical_outlier,Statistical outlier for account 'Office Supplies' (IQR method)
+JE105037,1,statistical_outlier,Statistical outlier for account 'Office Supplies' (IQR method)
+JE105784,1,statistical_outlier,Statistical outlier for account 'Office Supplies' (IQR method)
+JE106573,1,statistical_outlier,Statistical outlier for account 'Office Supplies' (IQR method)
+JE107097,1,statistical_outlier,Statistical outlier for account 'Payroll' (IQR method)
+JE102036,1,statistical_outlier,Statistical outlier for account 'Payroll' (IQR method)
+JE105581,1,statistical_outlier,Statistical outlier for account 'Payroll' (IQR method)
+JE106656,1,statistical_outlier,Statistical outlier for account 'Payroll' (IQR method)
+JE108000,1,statistical_outlier,Statistical outlier for account 'Payroll' (IQR method)
+JE108089,1,statistical_outlier,Statistical outlier for account 'Payroll' (IQR method)
+JE102306,1,statistical_outlier,Statistical outlier for account 'Payroll' (IQR method)
+JE101024,1,statistical_outlier,Statistical outlier for account 'Payroll' (IQR method)
+JE100168,1,statistical_outlier,Statistical outlier for account 'Payroll' (IQR method)
+JE105260,1,statistical_outlier,Statistical outlier for account 'Payroll' (IQR method)
+JE101380,1,statistical_outlier,Statistical outlier for account 'Payroll' (IQR method)
+JE101110,1,statistical_outlier,Statistical outlier for account 'Payroll' (IQR method)
+JE106023,1,statistical_outlier,Statistical outlier for account 'Payroll' (IQR method)
+JE108097,1,statistical_outlier,Statistical outlier for account 'Payroll' (IQR method)
+JE106059,1,statistical_outlier,Statistical outlier for account 'Payroll' (IQR method)
+JE104179,1,statistical_outlier,Statistical outlier for account 'Payroll' (IQR method)
+JE107360,1,statistical_outlier,Statistical outlier for account 'Payroll' (IQR method)
+JE100770,1,statistical_outlier,Statistical outlier for account 'Payroll' (IQR method)
+JE107851,1,statistical_outlier,Statistical outlier for account 'Payroll' (IQR method)
+JE107861,1,statistical_outlier,Statistical outlier for account 'Payroll' (IQR method)
+JE103381,1,statistical_outlier,Statistical outlier for account 'Payroll' (IQR method)
+JE104852,1,statistical_outlier,Statistical outlier for account 'Payroll' (IQR method)
+JE101930,1,statistical_outlier,Statistical outlier for account 'Payroll' (IQR method)
+JE102522,1,statistical_outlier,Statistical outlier for account 'Payroll' (IQR method)
+JE107737,1,statistical_outlier,Statistical outlier for account 'Payroll' (IQR method)
+JE105847,2,"statistical_outlier, month_end_late_hour_posting",Statistical outlier for account 'Payroll' (IQR method) | Month-end late-hour posting
+JE107224,1,statistical_outlier,Statistical outlier for account 'Payroll' (IQR method)
+JE104998,1,statistical_outlier,Statistical outlier for account 'Payroll' (IQR method)
+JE103395,1,statistical_outlier,Statistical outlier for account 'Payroll' (IQR method)
+JE107996,1,statistical_outlier,Statistical outlier for account 'Payroll' (IQR method)
+JE101935,1,statistical_outlier,Statistical outlier for account 'Payroll' (IQR method)
+JE102735,1,statistical_outlier,Statistical outlier for account 'Payroll' (IQR method)
+JE105272,1,statistical_outlier,Statistical outlier for account 'Payroll' (IQR method)
+JE105377,1,statistical_outlier,Statistical outlier for account 'Rent' (IQR method)
+JE103410,1,statistical_outlier,Statistical outlier for account 'Rent' (IQR method)
+JE106381,1,statistical_outlier,Statistical outlier for account 'Rent' (IQR method)
+JE107501,1,statistical_outlier,Statistical outlier for account 'Rent' (IQR method)
+JE100461,1,statistical_outlier,Statistical outlier for account 'Rent' (IQR method)
+JE106618,1,statistical_outlier,Statistical outlier for account 'Rent' (IQR method)
+JE102990,1,statistical_outlier,Statistical outlier for account 'Rent' (IQR method)
+JE107415,1,statistical_outlier,Statistical outlier for account 'Rent' (IQR method)
+JE108098,1,statistical_outlier,Statistical outlier for account 'Rent' (IQR method)
+JE106614,1,statistical_outlier,Statistical outlier for account 'Rent' (IQR method)
+JE101158,1,statistical_outlier,Statistical outlier for account 'Rent' (IQR method)
+JE101454,1,statistical_outlier,Statistical outlier for account 'Rent' (IQR method)
+JE107465,1,statistical_outlier,Statistical outlier for account 'Rent' (IQR method)
+JE106845,1,statistical_outlier,Statistical outlier for account 'Rent' (IQR method)
+JE101013,1,statistical_outlier,Statistical outlier for account 'Rent' (IQR method)
+JE105722,1,statistical_outlier,Statistical outlier for account 'Rent' (IQR method)
+JE103374,1,statistical_outlier,Statistical outlier for account 'Rent' (IQR method)
+JE103603,1,statistical_outlier,Statistical outlier for account 'Rent' (IQR method)
+JE106849,1,statistical_outlier,Statistical outlier for account 'Rent' (IQR method)
+JE103989,1,statistical_outlier,Statistical outlier for account 'Rent' (IQR method)
+JE107283,1,statistical_outlier,Statistical outlier for account 'Rent' (IQR method)
+JE104227,1,statistical_outlier,Statistical outlier for account 'Rent' (IQR method)
+JE100502,1,statistical_outlier,Statistical outlier for account 'Rent' (IQR method)
+JE104990,1,statistical_outlier,Statistical outlier for account 'Rent' (IQR method)
+JE102483,1,statistical_outlier,Statistical outlier for account 'Rent' (IQR method)
+JE100968,1,statistical_outlier,Statistical outlier for account 'Rent' (IQR method)
+JE100584,1,statistical_outlier,Statistical outlier for account 'Rent' (IQR method)
+JE101393,1,statistical_outlier,Statistical outlier for account 'Rent' (IQR method)
+JE101925,1,statistical_outlier,Statistical outlier for account 'Rent' (IQR method)
+JE102815,1,statistical_outlier,Statistical outlier for account 'Rent' (IQR method)
+JE107256,1,statistical_outlier,Statistical outlier for account 'Rent' (IQR method)
+JE104281,1,statistical_outlier,Statistical outlier for account 'Rent' (IQR method)
+JE102896,1,statistical_outlier,Statistical outlier for account 'Rent' (IQR method)
+JE106075,1,statistical_outlier,Statistical outlier for account 'Rent' (IQR method)
+JE105205,1,statistical_outlier,Statistical outlier for account 'Travel & Expense' (IQR method)
+JE106133,1,statistical_outlier,Statistical outlier for account 'Travel & Expense' (IQR method)
+JE100651,1,statistical_outlier,Statistical outlier for account 'Travel & Expense' (IQR method)
+JE108107,2,"statistical_outlier, month_end_late_hour_posting",Statistical outlier for account 'Travel & Expense' (IQR method) | Month-end late-hour posting
+JE101277,1,statistical_outlier,Statistical outlier for account 'Travel & Expense' (IQR method)
+JE103660,1,statistical_outlier,Statistical outlier for account 'Travel & Expense' (IQR method)
+JE106351,1,statistical_outlier,Statistical outlier for account 'Travel & Expense' (IQR method)
+JE104542,1,statistical_outlier,Statistical outlier for account 'Travel & Expense' (IQR method)
+JE100623,1,statistical_outlier,Statistical outlier for account 'Travel & Expense' (IQR method)
+JE104248,1,statistical_outlier,Statistical outlier for account 'Travel & Expense' (IQR method)
+JE100157,1,statistical_outlier,Statistical outlier for account 'Travel & Expense' (IQR method)
+JE106646,1,statistical_outlier,Statistical outlier for account 'Travel & Expense' (IQR method)
+JE103193,1,statistical_outlier,Statistical outlier for account 'Travel & Expense' (IQR method)
+JE106151,1,statistical_outlier,Statistical outlier for account 'Travel & Expense' (IQR method)
+JE100235,1,statistical_outlier,Statistical outlier for account 'Travel & Expense' (IQR method)
+JE101639,1,statistical_outlier,Statistical outlier for account 'Travel & Expense' (IQR method)
+JE107984,1,statistical_outlier,Statistical outlier for account 'Travel & Expense' (IQR method)
+JE100394,1,statistical_outlier,Statistical outlier for account 'Travel & Expense' (IQR method)
+JE103687,1,statistical_outlier,Statistical outlier for account 'Travel & Expense' (IQR method)
+JE106843,1,statistical_outlier,Statistical outlier for account 'Travel & Expense' (IQR method)
+JE105176,1,statistical_outlier,Statistical outlier for account 'Travel & Expense' (IQR method)
+JE104785,1,statistical_outlier,Statistical outlier for account 'Travel & Expense' (IQR method)
+JE101427,1,statistical_outlier,Statistical outlier for account 'Travel & Expense' (IQR method)
+JE108090,1,statistical_outlier,Statistical outlier for account 'Travel & Expense' (IQR method)
+JE106918,1,statistical_outlier,Statistical outlier for account 'Travel & Expense' (IQR method)
+JE102529,1,statistical_outlier,Statistical outlier for account 'Travel & Expense' (IQR method)
+JE100881,1,statistical_outlier,Statistical outlier for account 'Travel & Expense' (IQR method)
+JE101220,1,statistical_outlier,Statistical outlier for account 'Travel & Expense' (IQR method)
+JE100388,1,statistical_outlier,Statistical outlier for account 'Utilities' (IQR method)
+JE101708,1,statistical_outlier,Statistical outlier for account 'Utilities' (IQR method)
+JE103953,1,statistical_outlier,Statistical outlier for account 'Utilities' (IQR method)
+JE104048,1,statistical_outlier,Statistical outlier for account 'Utilities' (IQR method)
+JE101527,1,statistical_outlier,Statistical outlier for account 'Utilities' (IQR method)
+JE107625,1,statistical_outlier,Statistical outlier for account 'Utilities' (IQR method)
+JE107958,1,statistical_outlier,Statistical outlier for account 'Utilities' (IQR method)
+JE103456,1,statistical_outlier,Statistical outlier for account 'Utilities' (IQR method)
+JE100910,1,statistical_outlier,Statistical outlier for account 'Utilities' (IQR method)
+JE102802,1,statistical_outlier,Statistical outlier for account 'Utilities' (IQR method)
+JE106767,1,statistical_outlier,Statistical outlier for account 'Utilities' (IQR method)
+JE107021,1,statistical_outlier,Statistical outlier for account 'Utilities' (IQR method)
+JE108093,1,statistical_outlier,Statistical outlier for account 'Utilities' (IQR method)
+JE101292,1,statistical_outlier,Statistical outlier for account 'Utilities' (IQR method)
+JE106959,1,statistical_outlier,Statistical outlier for account 'Utilities' (IQR method)
+JE105018,1,statistical_outlier,Statistical outlier for account 'Utilities' (IQR method)
+JE101496,1,statistical_outlier,Statistical outlier for account 'Utilities' (IQR method)
+JE107442,1,statistical_outlier,Statistical outlier for account 'Utilities' (IQR method)
+JE107188,1,statistical_outlier,Statistical outlier for account 'Utilities' (IQR method)
+JE101117,1,statistical_outlier,Statistical outlier for account 'Utilities' (IQR method)
+JE102472,1,statistical_outlier,Statistical outlier for account 'Utilities' (IQR method)
+JE106988,1,statistical_outlier,Statistical outlier for account 'Utilities' (IQR method)
+JE103313,1,statistical_outlier,Statistical outlier for account 'Utilities' (IQR method)
+JE101166,1,statistical_outlier,Statistical outlier for account 'Utilities' (IQR method)
+JE104021,1,statistical_outlier,Statistical outlier for account 'Utilities' (IQR method)
+JE103496,1,statistical_outlier,Statistical outlier for account 'Utilities' (IQR method)
+JE107956,1,statistical_outlier,Statistical outlier for account 'Utilities' (IQR method)
+JE105419,1,month_end_late_hour_posting,Month-end late-hour posting
+JE105785,1,month_end_late_hour_posting,Month-end late-hour posting
+JE106221,1,month_end_late_hour_posting,Month-end late-hour posting
+JE104650,1,month_end_late_hour_posting,Month-end late-hour posting
+JE100542,1,month_end_late_hour_posting,Month-end late-hour posting
+JE107104,1,month_end_late_hour_posting,Month-end late-hour posting
+JE100112,1,month_end_late_hour_posting,Month-end late-hour posting
+JE104131,1,month_end_late_hour_posting,Month-end late-hour posting
+JE108125,1,month_end_late_hour_posting,Month-end late-hour posting
+JE108136,1,month_end_late_hour_posting,Month-end late-hour posting
+JE103373,1,month_end_late_hour_posting,Month-end late-hour posting
+JE105126,1,month_end_late_hour_posting,Month-end late-hour posting
+JE105043,1,month_end_late_hour_posting,Month-end late-hour posting
+JE104471,1,month_end_late_hour_posting,Month-end late-hour posting
+JE101409,1,month_end_late_hour_posting,Month-end late-hour posting
+JE105743,1,month_end_late_hour_posting,Month-end late-hour posting
+JE102613,1,month_end_late_hour_posting,Month-end late-hour posting
+JE104912,1,month_end_late_hour_posting,Month-end late-hour posting
+JE100875,1,month_end_late_hour_posting,Month-end late-hour posting
+JE108108,1,month_end_late_hour_posting,Month-end late-hour posting
+JE100991,1,month_end_late_hour_posting,Month-end late-hour posting
+JE101246,1,month_end_late_hour_posting,Month-end late-hour posting
+JE105334,1,month_end_late_hour_posting,Month-end late-hour posting
+JE104722,1,month_end_late_hour_posting,Month-end late-hour posting
